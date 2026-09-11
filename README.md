@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Drisnil
 - 👀 I’m interested in learning cool things and using tools in my daily tech life.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Google's Foundations of Cybersecurity.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jpward@gmail
 
